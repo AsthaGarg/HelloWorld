@@ -66,8 +66,8 @@ function swap(arr, left, right, pivot){
       
       console.log("check->"+arr[left]+"||"+arr[right])
       temp=right-1;
-      $left.animate({height:'+=10px',opacity:'1',color: 'red',background: 'yellow'},200).before($right);
-      $('.st[id='+ arr[temp] + ']').animate({height:'-=10px',opacity:'1',color: 'red',background: 'yellow'},200);
+      $left.animate({height:'+=10px',opacity:'1',color: 'red',background: 'yellow'},100).before($right);
+      $('.st[id='+ arr[temp] + ']').animate({height:'-=10px',opacity:'1',color: 'red',background: 'yellow'},100);
       $('.st[id='+ arr[temp] + ']').after($left);
       $('.st').removeClass('swapping');
 }
