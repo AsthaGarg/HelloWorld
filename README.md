@@ -1,11 +1,16 @@
 HelloWorld
 ==========
-1.SortingQuickSort.html:
+Files:
+
+1. SortingQuickSort.html:
 Display the array on html page (which is uploaded when document is ready)
-2.Sort.css
+
+2. Sort.css
 Used for styling the html file.(such as font family, color etc)
-3.QuickSort.js
+
+3. QuickSort.js
 Used jquery for running the algorithm and also for adding animation in html page.
+
 
 Algorithm: QuickSort| Runtime: O(n Log(n)) average, O(n^2) worst case.|Memory: O(Log(n))
 
