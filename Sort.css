@@ -1,52 +1,73 @@
 .st{
-  display: inline-block;
-  background-color:#69D2E7; 
-  border-radius: 10px;
-  font-family: Verdana, Arial, Sans-Serif;
-  opacity: 0.5;
-  height:50px; 
-  width: 80px;
-  text-align: center;
-  padding-top: 20px;
-  margin-right: 5px;
+display: inline-block;
+background-color:#69D2E7; 
+border-radius: 10px;
+font-family: Verdana, Arial, Sans-Serif;
+opacity: 0.5;
+height:50px; 
+width: 80px;
+text-align: center;
+padding-top: 20px;
+margin-right: 5px;
 }
 #ls{
-  height:200px; 
-  width: 1000px;
-  text-align: center;
-
+height:200px; 
+width: 1000px;
+text-align: center;
 }
 .swapping {
-  color: red;
-  background-color: yellow;
-}
-li{
-  background-color:#4458a2;
-  color: white;
-  list-style-type: none;
-  padding-left: 0px;
-  padding-right: 0px;
-  margin-right: 50px; 
-  margin-top: 250px
-
+color: red;
+background-color: yellow;
 }
 main{
-  padding: 100px 100px 100px 100px;
-}
-.heading{
-  font-size:2em; 
-  text-decoration: underline;
-  font-family: Verdana, Arial, Sans-Serif;
-  color:blue;
-  padding-left: 400px;
+padding: 100px 100px 100px 100px;
+border: 2px solid #4458a2;
+border-radius: 15px;
+width: 1100px;
+height: 550px;
 }
 button {
-   border-radius: 5px;
-   background-color: #69D2E7;
-   text-align: center;
-   color: blue;
-   font-weight: bold;
-   font-family: Verdana, Arial, Sans-Serif;
-   margin-left: 450px;
-    
+border-radius: 5px;
+background-color: #69D2E7;
+text-align: center;
+color: blue;
+font-weight: bold;
+font-family: Verdana, Arial, Sans-Serif;
+margin-left: 450px;   
+}
+.btFocus{
+opacity: 0.75;
+background-color:#4458a2;
+color: white;
+}
+#detail{
+background-color:#4458a2;
+color: white;
+font-family: Verdana, Arial, Sans-Serif;
+opacity: 1;
+list-style-position: inside;
+}
+#panel{
+font-size:0.5em;
+text-decoration: none;
+background-color:#4458a2;
+color: white;
+font-family: Verdana, Arial, Sans-Serif;
+opacity: 1;
+text-align: justify;
+padding: 10px 10px 10px 10px;
+width:1100;
+}
+.heading{
+font-size:2em; 
+text-decoration: underline;
+font-family: Verdana, Arial, Sans-Serif;
+color:white;
+text-align: center;;
+background-color: #2B65EC;
+width: 1120px;
+display: inline-block;
+}
+#small{
+font-size:0.45em;  
 }
