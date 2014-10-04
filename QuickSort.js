@@ -99,7 +99,9 @@ function Card(arr) {
 	  return '<section class="st" id="' + this.arr +'">' + this.arr + '</section>';
 	}
 }
+//calling array in html in section tag
 var deck=new Deck();
+
 //calling print array
 printArray(arr);
 
