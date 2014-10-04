@@ -34,19 +34,19 @@ main{
   padding: 100px 100px 100px 100px;
 }
 .heading{
-	font-size:2em; 
-	text-decoration: underline;
-	font-family: Verdana, Arial, Sans-Serif;
-	color:blue;
-	padding-left: 400px;
+  font-size:2em; 
+  text-decoration: underline;
+  font-family: Verdana, Arial, Sans-Serif;
+  color:blue;
+  padding-left: 400px;
 }
 button {
-    border-radius: 5px;
-    background-color: #69D2E7;
-    text-align: center;
-    color: blue;
-    font-weight: bold;
-    font-family: Verdana, Arial, Sans-Serif;
-    margin-left: 450px;
+   border-radius: 5px;
+   background-color: #69D2E7;
+   text-align: center;
+   color: blue;
+   font-weight: bold;
+   font-family: Verdana, Arial, Sans-Serif;
+   margin-left: 450px;
     
 }
